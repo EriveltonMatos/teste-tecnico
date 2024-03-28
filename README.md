@@ -42,12 +42,19 @@ A estrutura do projeto segue os padrões do Spring Boot, incluindo os pacotes pa
 ![Captura de tela 2024-03-28 164643](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/079ded11-76e2-4ac5-8de3-1a3ed96bc967)
 
 ## Método DELETE
-- Utilizar "localhost:8080/pessoa" + o número do id da pessoa para deletar o cadastro.
+- Utilizar "localhost:8080/pessoa" + o número do id da pessoa para deletar o cadastro. Exemplo:
 
 ![Captura de tela 2024-03-28 164859](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/e030091a-73a4-48b3-bdc7-7122d545c25c)
 
 ## Pesquisar Informações
-- Utilizar "localhost:8080/pessoa?" + o campo desejado para efetuar a pesquisa
+- Utilizar "localhost:8080/pessoa?" + o campo desejado e o valor para efetuar a pesquisa. Exemplo:
+
+![Captura de tela 2024-03-28 165227](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/d4c336f7-af43-4ab4-9902-67114d357256)
+
+Ou
+
+![Captura de tela 2024-03-28 165300](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/321a1af8-7984-4b12-b713-6dc9a66965f0)
+
 
 
 
