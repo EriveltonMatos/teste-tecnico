@@ -23,12 +23,12 @@ Antes de começar, certifique-se de ter o ambiente de desenvolvimento configurad
 A estrutura do projeto segue os padrões do Spring Boot, incluindo os pacotes para entidades, repositórios, serviços e controladores.
 
 ## Método GET
-- Utilizar "localhost:8080/pessoas" no postman para listar todas as pessoas cadastradas no banco em formato JSON. Exemplo:
+- Utilizar "localhost:8080/pessoas" no postman para listar todas as pessoas cadastradas no banco em formato JSON. A resposta do servidor deve ser 200 OK. Exemplo:
 
 ![Captura de tela 2024-03-28 165933](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/55679855-70fb-4598-9b04-82dd3ebec7de)
 
 ## Método POST
-- Utilizar "localhost:8080/pessoas" no postman para cadastrar uma nova pessoa, lembre-se de passar os campos nome; sobrenome; cpf e status_id. Obs: o Status 1 significa que a pessoa está "ativa" e 2 "inativa". Exemplo:
+- Utilizar "localhost:8080/pessoas" no postman para cadastrar uma nova pessoa, lembre-se de passar os campos nome; sobrenome; cpf e status_id. Obs: o Status 1 significa que a pessoa está "ativa" e 2 "inativa". A resposta do servidor deve ser "201 Created". Exemplo:
 
 ![Captura de tela 2024-03-28 170043](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/8512d9c6-c765-4f56-8c92-c9a418614429)
 
