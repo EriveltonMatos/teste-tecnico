@@ -47,6 +47,7 @@ A estrutura do projeto segue os padrões do Spring Boot, incluindo os pacotes pa
 ![Captura de tela 2024-03-28 164859](https://github.com/EriveltonMatos/teste-tecnico/assets/103468962/e030091a-73a4-48b3-bdc7-7122d545c25c)
 
 ## Pesquisar Informações
+- Utilizar "localhost:8080/pessoa?" + o campo desejado para efetuar a pesquisa
 
 
 
